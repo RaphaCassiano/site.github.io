@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raphacassiano.github.io/site.github.io/sitemap.xml
